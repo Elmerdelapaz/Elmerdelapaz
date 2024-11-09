@@ -1,6 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Elmerdelapaz/Elmerdelapaz/main/wallpapers.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am TtotiCode </h1>
+<p align="center">
+  <img alt="Sergie Code" src="https://raw.githubusercontent.com/Elmerdelapaz/Elmerdelapaz/main/Hand%20Wave.gif" width='40' align="left">
+  <h2>Hey everyone! I'm Ttoti Code</h2>
+</p>
 
 
 <!-- ## 👋 &nbsp;Hey everyone! I'm Ttoti Code -->
