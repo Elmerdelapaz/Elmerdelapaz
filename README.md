@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Elmerdelapaz/Elmerdelapaz/main/wallpapers.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Elmerdelapaz/Elmerdelapaz/main/adlrbt.jpg"></p>
 
 <p align="center">
   <img alt="Sergie Code" src="https://raw.githubusercontent.com/Elmerdelapaz/Elmerdelapaz/main/Hand%20Wave.gif" width='40' align="left">
